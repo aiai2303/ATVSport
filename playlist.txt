@@ -1,1 +1,822 @@
-Đây là nội dung mới từ PHP 🐘
+#EXTM3U url-tvg="https://lichphatsong.xyz/schedule/epg.xml"
+#UPDATE 14:42⚡07/04 | COPYRIGHT BY AiSmile
+
+#SHARE OFF LIST !!!
+
+#EXTM3U
+#EXTINF:-1 group-title="Winter Sports" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-07:00 | 2025 BKT World Men's Curling Championship: Gold - TBD vs. TBD | TSN2
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium112&auth=ditme
+#EXTINF:-1 group-title="Chương trình TV" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-07:00 | Mysteries of the Unknown Season 9, Episode 9 | Travel Channel
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium340&auth=ditme
+#EXTINF:-1 group-title="Chương trình TV" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-07:00 | American Idol Season 23, Episode 8 | ABC NY USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium766&auth=ditme
+#EXTINF:-1 group-title="Chương trình TV" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-07:00 | Antiques Roadshow Season 29, Episode 12 | PBS USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium210&auth=ditme
+#EXTINF:-1 group-title="Chương trình TV" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-07:00 | La casa de los famosos: All-stars | Telemundo USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium131&auth=ditme
+#EXTINF:-1 group-title="Chương trình TV" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-07:00 | Spring Baking Championship Season 11, Episode 5 | The Food Network
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium384&auth=ditme
+#EXTINF:-1 group-title="Chương trình TV" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-07:00 | Ancient Aliens: Declassified Celestial Connections | History USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium322&auth=ditme
+#EXTINF:-1 group-title="Chương trình TV" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-07:00 | 90 Day: The Last Resort Season 2, Episode 19 | TLC USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium337&auth=ditme
+#EXTINF:-1 group-title="Chương trình TV" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-07:00 | Love &amp; Hip Hop Miami Season 6, Episode 21 | VH1 USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium344&auth=ditme
+#EXTINF:-1 group-title="Chương trình TV" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-07:00 | The Voice Season 27, Episode 10 | NBC USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium53&auth=ditme
+#EXTINF:-1 group-title="Chương trình TV" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-07:00 | Papás por conveniencia Season 1, Episode 54 | Univision USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium132&auth=ditme
+#EXTINF:-1 group-title="Chương trình TV" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-07:00 | Below Deck Down Under Season 3, Episode 10 | Bravo USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium307&auth=ditme
+#EXTINF:-1 group-title="Chương trình TV" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-07:00 | Extracted Season 1, Episode 8 | FOXNY USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium768&auth=ditme
+#EXTINF:-1 group-title="Chương trình TV" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-07:00 | The Voice Season 27, Episode 10 | NBCNY USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium769&auth=ditme
+#EXTINF:-1 group-title="Live bóng chuyền" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-07:00 | Superliga B Feminina De Vôlei - Final | Sportv2 Brazil
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium79&auth=ditme
+#EXTINF:-1 group-title="Live bóng rỗ" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-07:30 | NCAA Men's March Madness Championship - Florida vs Houston | Sport Klub 1 Croatia
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium101&auth=ditme
+#EXTINF:-1 group-title="Live bóng rỗ" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-07:30 | NCAA Men's March Madness Championship - Florida vs Houston | Arena Premium 1 Serbia
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium134&auth=ditme
+#EXTINF:-1 group-title="Live bóng rỗ" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-07:30 | NCAA Men's March Madness Championship - Florida vs Houston | ESPN 1 NL
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium379&auth=ditme
+#EXTINF:-1 group-title="Live bóng rỗ" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-07:30 | NCAA Men's March Madness Championship - Florida vs Houston | Movistar Deportes Spain
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium436&auth=ditme
+#EXTINF:-1 group-title="Live bóng rỗ" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-07:30 | NCAA Men's March Madness Championship - Florida vs Houston | TSN5
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium115&auth=ditme
+#EXTINF:-1 group-title="Live bóng rỗ" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-07:30 | NCAA Men's March Madness Championship - Florida vs Houston | TSN4
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium114&auth=ditme
+#EXTINF:-1 group-title="Live bóng rỗ" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-07:30 | NCAA Men's March Madness Championship - Florida vs Houston | TSN3
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium113&auth=ditme
+#EXTINF:-1 group-title="Live bóng rỗ" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-07:30 | NCAA Men's March Madness Championship - Florida vs Houston | TSN1
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium111&auth=ditme
+#EXTINF:-1 group-title="Live bóng rỗ" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-07:30 | NCAA Men's March Madness Championship - Florida vs Houston | CBSNY USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium767&auth=ditme
+#EXTINF:-1 group-title="Live bóng rỗ" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-07:30 | NCAA Men's March Madness Championship - Florida vs Houston | CBS USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium52&auth=ditme
+#EXTINF:-1 group-title="Chương trình TV" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-07:30 | Hey Rookie, Welcome to the NFL Season 11, Episode 1 | ESPN USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium44&auth=ditme
+#EXTINF:-1 group-title="Live bóng rỗ" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-07:30 | NCAA Men's March Madness Championship - Florida vs Houston | ESPN2 Argentina
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium150&auth=ditme
+#EXTINF:-1 group-title="Chương trình TV" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-08:00 | Rachael Ray in Tuscany Season 1, Episode 29 | FYI USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium665&auth=ditme
+#EXTINF:-1 group-title="Chương trình TV" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-08:00 | 90 Day Diaries Season 6, Episode 1 | TLC USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium337&auth=ditme
+#EXTINF:-1 group-title="Chương trình TV" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-08:00 | Peppa Pig Season 8, Episode 30 | NICK USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium330&auth=ditme
+#EXTINF:-1 group-title="Chương trình TV" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-08:00 | Celtics City Season 1, Episode 6 | HBO USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium321&auth=ditme
+#EXTINF:-1 group-title="Chương trình TV" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-08:00 | Fatal Attraction Season 15, Episode 45 | TV ONE USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium660&auth=ditme
+#EXTINF:-1 group-title="Chương trình TV" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-08:00 | TMZ Presents: The Menendez Brothers: The Prison Interview | FOXNY USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium768&auth=ditme
+#EXTINF:-1 group-title="Chương trình TV" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-08:00 | The Voice Season 27, Episode 11 | NBCNY USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium769&auth=ditme
+#EXTINF:-1 group-title="Chương trình TV" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-08:00 | The Voice Season 27, Episode 11 | NBC USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium53&auth=ditme
+#EXTINF:-1 group-title="Chương trình TV" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-08:00 | TNT Sports Conversations Season 1, Episode 4 | truTV USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium341&auth=ditme
+#EXTINF:-1 group-title="Chương trình TV" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-08:00 | Gypsy Rose: Life After Lock Up Season 2, Episode 5 | Lifetime Network
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium326&auth=ditme
+#EXTINF:-1 group-title="Chương trình TV" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-08:00 | HOLLYWOOD DEMONS Season 1, Episode 3 | ID USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium324&auth=ditme
+#EXTINF:-1 group-title="Chương trình TV" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-08:30 | Instant Italian With Anna Gass Season 1, Episode 9 | FYI USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium665&auth=ditme
+#EXTINF:-1 group-title="Bóng chày" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-08:40 | MLB : Houston Astros vs Seattle Mariners | Root Sports NW USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium920&auth=ditme
+#EXTINF:-1 group-title="Bóng chày" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-08:40 | MLB : Houston Astros vs Seattle Mariners | MLB League Pass
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium25&auth=ditme
+#EXTINF:-1 group-title="Bóng chày" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-08:40 | MLB : Baltimore Orioles vs Arizona Diamondbacks | Sport 5 Live Israel
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium146&auth=ditme
+#EXTINF:-1 group-title="Bóng chày" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-08:40 | MLB : Baltimore Orioles vs Arizona Diamondbacks | MLB League Pass
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium24&auth=ditme
+#EXTINF:-1 group-title="Bóng chày" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-08:40 | MLB : Houston Astros vs Seattle Mariners | Space City Home Network
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium921&auth=ditme
+#EXTINF:-1 group-title="Bóng chày" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-08:45 | MLB : San Diego Padres vs Oakland Athletics | MLB League Pass
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium27&auth=ditme
+#EXTINF:-1 group-title="Bóng chày" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-08:45 | MLB : Cincinnati Reds vs San Francisco Giants | FanDuel Sports Network Ohio
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium899&auth=ditme
+#EXTINF:-1 group-title="Bóng chày" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-08:45 | MLB : Cincinnati Reds vs San Francisco Giants | FanDuel Sports Network Indiana
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium894&auth=ditme
+#EXTINF:-1 group-title="Bóng chày" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-08:45 | MLB : Cincinnati Reds vs San Francisco Giants | MLB League Pass
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium26&auth=ditme
+#EXTINF:-1 group-title="Bóng chày" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-08:45 | MLB : Cincinnati Reds vs San Francisco Giants | NBCS Bay Area USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium753&auth=ditme
+#EXTINF:-1 group-title="Chương trình TV" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-09:00 | Celebrity True Crime Story Season 2, Episode 4 | BET USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium306&auth=ditme
+#EXTINF:-1 group-title="Chương trình TV" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-09:00 | Confessions of Octomom Season 1, Episode 5 | Lifetime Network
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium326&auth=ditme
+#EXTINF:-1 group-title="Chương trình TV" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-09:00 | The Hunting Party Season 1, Episode 10 • Finale | NBC USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium53&auth=ditme
+#EXTINF:-1 group-title="Chương trình TV" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-09:00 | The Hunting Party Season 1, Episode 10 • Finale | NBCNY USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium769&auth=ditme
+#EXTINF:-1 group-title="Ice Hockey" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-09:30 | NHL : Edmonton Oilers vs Anaheim Ducks | SportsNet West
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium407&auth=ditme
+#EXTINF:-1 group-title="Ice Hockey" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-09:30 | NHL : Calgary Flames vs San Jose Sharks | Sportsnet One
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium411&auth=ditme
+#EXTINF:-1 group-title="Ice Hockey" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-09:30 | NHL : Calgary Flames vs San Jose Sharks | Sportsnet One
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium411&auth=ditme
+#EXTINF:-1 group-title="Ice Hockey" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-09:30 | NHL : Calgary Flames vs San Jose Sharks | Sport 5 Stars Israel
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium147&auth=ditme
+#EXTINF:-1 group-title="Ice Hockey" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-09:30 | NHL : Calgary Flames vs San Jose Sharks | Sky Sport Top Event
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium556&auth=ditme
+#EXTINF:-1 group-title="Ice Hockey" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-09:30 | NHL : Calgary Flames vs San Jose Sharks | Sky Sport Mix DE
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium557&auth=ditme
+#EXTINF:-1 group-title="Ice Hockey" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-09:30 | NHL : Edmonton Oilers vs Anaheim Ducks | V Sport Vinter
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium1&auth=ditme
+#EXTINF:-1 group-title="Ice Hockey" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-09:30 | NHL : Calgary Flames vs San Jose Sharks | NBCS California
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium755&auth=ditme
+#EXTINF:-1 group-title="Ice Hockey" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-09:30 | NHL : Edmonton Oilers vs Anaheim Ducks | Away Feed
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium7&auth=ditme
+#EXTINF:-1 group-title="Ice Hockey" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-09:30 | NHL : Seattle Kraken vs Los Angeles Kings | Home Feed
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium8&auth=ditme
+#EXTINF:-1 group-title="Ice Hockey" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-09:30 | NHL : Seattle Kraken vs Los Angeles Kings | Away Feed
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium9&auth=ditme
+#EXTINF:-1 group-title="Ice Hockey" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-09:30 | NHL : Calgary Flames vs San Jose Sharks | Away Feed
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium12&auth=ditme
+#EXTINF:-1 group-title="Chương trình TV" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-09:30 | Poker Night in America | CBS Sports Network USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium308&auth=ditme
+#EXTINF:-1 group-title="Ice Hockey" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-09:30 | NHL : Seattle Kraken vs Los Angeles Kings | V Sport Premium Sweden
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium10&auth=ditme
+#EXTINF:-1 group-title="Ice Hockey" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-09:30 | NHL : Edmonton Oilers vs Anaheim Ducks | Home Feed
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium6&auth=ditme
+#EXTINF:-1 group-title="Ice Hockey" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-09:30 | NHL : Seattle Kraken vs Los Angeles Kings | FanDuel Sports Network SoCal
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium902&auth=ditme
+#EXTINF:-1 group-title="Ice Hockey" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-09:30 | NHL : Seattle Kraken vs Los Angeles Kings | FanDuel Sports Network West
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium906&auth=ditme
+#EXTINF:-1 group-title="Ice Hockey" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-09:30 | NHL : Calgary Flames vs San Jose Sharks | Home Feed
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium11&auth=ditme
+#EXTINF:-1 group-title="Chương trình TV" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-10:00 | Celebrity True Crime Story Season 2, Episode 8 | BET USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium306&auth=ditme
+#EXTINF:-1 group-title="Live Tennis" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-16:00 | 2025 Monte-Carlo Masters Tennis Early Round Coverage, Day 1 | Arena 3 Premium Serbia
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium139&auth=ditme
+#EXTINF:-1 group-title="Live Tennis" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-16:00 | 2025 Monte-Carlo Masters Tennis Early Round Coverage, Day 1 | Movistar Deportes 2 Spain
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium438&auth=ditme
+#EXTINF:-1 group-title="Live Tennis" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-16:00 | 2025 Monte-Carlo Masters Tennis Early Round Coverage, Day 1 | Sport TV3 Portugal
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium454&auth=ditme
+#EXTINF:-1 group-title="Live Tennis" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-16:00 | 2025 Monte-Carlo Masters Tennis Early Round Coverage, Day 1 | Cosmote Sport 6 Greece
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium627&auth=ditme
+#EXTINF:-1 group-title="Live Tennis" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-16:00 | 2025 Monte-Carlo Masters Tennis Early Round Coverage, Day 1 | M+ #Vamos ES
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium521&auth=ditme
+#EXTINF:-1 group-title="Live Tennis" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-16:00 | 2025 Monte-Carlo Masters Tennis Early Round Coverage, Day 1 | TSN3
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium113&auth=ditme
+#EXTINF:-1 group-title="Live Tennis" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-16:00 | 2025 Monte-Carlo Masters Tennis Early Round Coverage, Day 1 | TV4 Tennis
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium701&auth=ditme
+#EXTINF:-1 group-title="Live Tennis" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-16:00 | 2025 Monte-Carlo Masters Tennis Early Round Coverage, Day 1 | Sky Sports Tennis UK
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium46&auth=ditme
+#EXTINF:-1 group-title="Live Tennis" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-16:00 | ATP - MONTE CARLO : Wawrinka S. vs Tabilo A. | Tennis Stream 9
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium1509&auth=ditme
+#EXTINF:-1 group-title="Live Tennis" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-16:00 | 2025 Monte-Carlo Masters Tennis Early Round Coverage, Day 1 | Tennis Channel
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium40&auth=ditme
+#EXTINF:-1 group-title="Live Tennis" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-16:00 | ATP - MONTE CARLO : Wawrinka S. vs Tabilo A. | Tennis Stream 6
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium1506&auth=ditme
+#EXTINF:-1 group-title="Live Tennis" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-16:00 | ATP - MONTE CARLO : De Minaur A./Struff J-L. vs Bhambri Y./Popyrin A. | Tennis Stream 9
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium1509&auth=ditme
+#EXTINF:-1 group-title="Live Tennis" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-16:00 | 2025 Monte-Carlo Masters Tennis Early Round Coverage, Day 1 | Movistar Deportes 3 Spain
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium526&auth=ditme
+#EXTINF:-1 group-title="Live Tennis" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-16:00 | 2025 Monte-Carlo Masters Tennis Early Round Coverage, Day 1 | Movistar Deportes 4 Spain
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium527&auth=ditme
+#EXTINF:-1 group-title="Live Tennis" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-16:00 | 2025 Monte-Carlo Masters Tennis Early Round Coverage, Day 1 | Digi Sport 2 Romania
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium401&auth=ditme
+#EXTINF:-1 group-title="Live Tennis" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-16:00 | 2025 Monte-Carlo Masters Tennis Early Round Coverage, Day 1 | Sport Klub 2 Croatia
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium102&auth=ditme
+#EXTINF:-1 group-title="Live Tennis" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-16:00 | ATP - MONTE CARLO : Giron M. vs Shapovalov D. | Tennis Stream 8
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium1508&auth=ditme
+#EXTINF:-1 group-title="Live Tennis" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-16:00 | 2025 Monte-Carlo Masters Tennis Early Round Coverage, Day 1 | Digi Sport 4 Romania
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium403&auth=ditme
+#EXTINF:-1 group-title="Live Tennis" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-16:00 | 2025 Monte-Carlo Masters Tennis Early Round Coverage, Day 1 | Sport 4 Israel
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium143&auth=ditme
+#EXTINF:-1 group-title="Live Tennis" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-16:00 | ATP - MONTE CARLO : Lehecka J. vs Korda S. | Tennis Stream 7
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium1507&auth=ditme
+#EXTINF:-1 group-title="Live Tennis" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-16:00 | 2025 Monte-Carlo Masters Tennis Early Round Coverage, Day 1 | Sport Klub 1 Croatia
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium101&auth=ditme
+#EXTINF:-1 group-title="Live Tennis" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-16:00 | 2025 Monte-Carlo Masters Tennis Early Round Coverage, Day 1 | MAX Sport 1 Bulgaria
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium472&auth=ditme
+#EXTINF:-1 group-title="Live Tennis" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-16:00 | 2025 Monte-Carlo Masters Tennis Early Round Coverage, Day 1 | Ziggo Sport 4 NL
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium396&auth=ditme
+#EXTINF:-1 group-title="Live Tennis" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-16:00 | 2025 Monte-Carlo Masters Tennis Early Round Coverage, Day 1 | Polsat Sport 1 Poland
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium47&auth=ditme
+#EXTINF:-1 group-title="Live Tennis" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-16:00 | 2025 Monte-Carlo Masters Tennis Early Round Coverage, Day 1 | Ziggo Sport 1 NL
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium393&auth=ditme
+#EXTINF:-1 group-title="Snooker" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-17:00 | World Snooker - World Snooker Championship Day 1 | TNT Sports 5 UK
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium16&auth=ditme
+#EXTINF:-1 group-title="Live Tennis" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-17:30 | ATP - MONTE CARLO : Auger-Aliassime F. vs Altmaier D. | Tennis Stream 8
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium1508&auth=ditme
+#EXTINF:-1 group-title="Live Tennis" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-17:30 | ATP - MONTE CARLO : Bu Y. vs Musetti L. | Tennis Stream 6
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium1506&auth=ditme
+#EXTINF:-1 group-title="Live Tennis" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-17:30 | ATP - MONTE CARLO : Bu Y. vs Musetti L. | Tennis Stream 7
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium1507&auth=ditme
+#EXTINF:-1 group-title="Live Tennis" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-17:30 | ATP - MONTE CARLO : Gille S./Zielinski J. vs Gonzalez M./Molteni A. | Tennis Stream 9
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium1509&auth=ditme
+#EXTINF:-1 group-title="Live Tennis" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-17:30 | ATP - MONTE CARLO : Monfils G. vs Marozsan F. | Tennis Stream 7
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium1507&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-18:30 | Azerbaijan - Premier Liqa : Shamakhi vs Neftçi | CBC Sport Azerbaijan
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium1&auth=ditme
+#EXTINF:-1 group-title="Live Tennis" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-19:00 | ATP - MONTE CARLO : Medvedev D. vs Khachanov K. | Tennis Stream 6
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium1506&auth=ditme
+#EXTINF:-1 group-title="Live Tennis" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-19:00 | ATP - MONTE CARLO : Medvedev D. vs Khachanov K. | Tennis Stream 8
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium1508&auth=ditme
+#EXTINF:-1 group-title="Live Tennis" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-19:00 | ATP - MONTE CARLO : Navone M. vs Berrettini M. | Tennis Stream 7
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium1507&auth=ditme
+#EXTINF:-1 group-title="Horse Racing" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-19:00 | Live racing from around the UK | Sky Sports Racing UK
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium554&auth=ditme
+#EXTINF:-1 group-title="Live Tennis" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-19:00 | ATP - MONTE CARLO : Korda S./Thompson J. vs Draper J./Machac T. | Tennis Stream 9
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium1509&auth=ditme
+#EXTINF:-1 group-title="Live Tennis" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-19:00 | ATP - MONTE CARLO : Muller A. vs Ugo Carabelli C. | Tennis Stream 8
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium1508&auth=ditme
+#EXTINF:-1 group-title="Chương trình TV" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-19:00 | Lindner's Angling Edge Season 23, Episode 15 | Outdoor Channel
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium848&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-19:00 | Bulgaria - Parva Liga : Septemvri Sofia vs Arda | Diema Sport Bulgaria
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium465&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-19:00 | Bulgaria - Parva Liga : Septemvri Sofia vs Arda | Sport Klub 3 Croatia
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium103&auth=ditme
+#EXTINF:-1 group-title="Horse Racing" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-19:15 | Live racing from Kelso, Redcar and Kempton | Racing Tv UK
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium555&auth=ditme
+#EXTINF:-1 group-title="Live giải xe đạp" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-20:00 | Itzulia Basque Country | Stage 1 Men | Vitoria-Gasteiz – Baskonia-Alavés (ITT, 16.5km) | Eurosport 1 SE
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium231&auth=ditme
+#EXTINF:-1 group-title="Live giải xe đạp" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-20:00 | Itzulia Basque Country | Stage 1 Men | Vitoria-Gasteiz – Baskonia-Alavés (ITT, 16.5km) | EuroSport 1 France
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium772&auth=ditme
+#EXTINF:-1 group-title="Live giải xe đạp" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-20:00 | Itzulia Basque Country | Stage 1 Men | Vitoria-Gasteiz – Baskonia-Alavés (ITT, 16.5km) | TNT Sports 1 UK
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium31&auth=ditme
+#EXTINF:-1 group-title="Live giải xe đạp" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-20:00 | Itzulia Basque Country | Stage 1 Men | Vitoria-Gasteiz – Baskonia-Alavés (ITT, 16.5km) | EuroSport 1 Poland
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium57&auth=ditme
+#EXTINF:-1 group-title="Live giải xe đạp" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-20:00 | Itzulia Basque Country | Stage 1 Men | Vitoria-Gasteiz – Baskonia-Alavés (ITT, 16.5km) | EuroSport 1 Spain
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium524&auth=ditme
+#EXTINF:-1 group-title="Live Tennis" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-20:30 | ATP - MONTE CARLO : Davidovich Fokina A. vs Shelton B. | Tennis Stream 7
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium1507&auth=ditme
+#EXTINF:-1 group-title="Live Tennis" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-20:30 | ATP - MONTE CARLO : Humbert U./Musetti L. vs Rinderknech A./Vacherot V. | Tennis Stream 8
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium1508&auth=ditme
+#EXTINF:-1 group-title="Live Tennis" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-20:30 | ATP - MONTE CARLO : Fognini F. vs Cerundolo F. | Tennis Stream 6
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium1506&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-20:50 | United Arab Emirates - UAE Pro League : Al Jazira vs Al Wasl | Abu Dhabi Sports 1
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium600&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-21:00 | Azerbaijan - Premier Liqa : Araz vs Sumqayıt | CBC Sport Azerbaijan
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium1&auth=ditme
+#EXTINF:-1 group-title="Live Cricket" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-21:00 | Indian Premier League : Mumbai Indians vs Royal Challengers Bangalore | Fox Cricket
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium369&auth=ditme
+#EXTINF:-1 group-title="Live Cricket" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-21:00 | Indian Premier League : Mumbai Indians vs Royal Challengers Bangalore | Astro Cricket
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium370&auth=ditme
+#EXTINF:-1 group-title="Live Cricket" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-21:00 | Indian Premier League : Mumbai Indians vs Royal Challengers Bangalore | SuperSport Cricket
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium368&auth=ditme
+#EXTINF:-1 group-title="Live Cricket" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-21:00 | Indian Premier League : Mumbai Indians vs Royal Challengers Bangalore | Sky Sports Cricket
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium65&auth=ditme
+#EXTINF:-1 group-title="Live Cricket" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-21:00 | Indian Premier League : Mumbai Indians vs Royal Challengers Bangalore | Sky Sport 1 NZ
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium588&auth=ditme
+#EXTINF:-1 group-title="Live Cricket" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-21:00 | Indian Premier League : Mumbai Indians vs Royal Challengers Bangalore | Willow Cricket
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium346&auth=ditme
+#EXTINF:-1 group-title="Live Cricket" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-21:00 | Indian Premier League : Mumbai Indians vs Royal Challengers Bangalore | Willow Cricket 2
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium598&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-21:30 | Romania - Liga I : Farul Constanța vs Unirea Slobozia | Prima Sport 1 Romania
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium583&auth=ditme
+#EXTINF:-1 group-title="Snooker" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-21:30 | World Snooker - World Snooker Championship Day 1 | TNT Sports 5 UK
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium16&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-21:30 | Romania - Liga I : Farul Constanța vs Unirea Slobozia | Arena Sport 2 Croatia
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium433&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-21:30 | Bulgaria - Parva Liga : Lokomotiv Plovdiv vs Spartak Varna | Diema Sport Bulgaria
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium465&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-21:30 | Bulgaria - Parva Liga : Lokomotiv Plovdiv vs Spartak Varna | Sport Klub 3 Croatia
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium103&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-21:30 | Romania - Liga I : Farul Constanța vs Unirea Slobozia | Digi Sport 1 Romania
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium400&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-22:00 | Czech Republic - 2. liga : Baník Ostrava II vs Sigma Olomouc II | ČT Sport Czech Republic
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium3&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-22:00 | Albania - Superliga : Egnatia Rrogozhinë vs AF Elbasani | RTSH Sport Albania
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium2&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-22:00 | Greece - Super League : Atromitos vs Asteras Tripolis | Nova Sports Prime Greece
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium638&auth=ditme
+#EXTINF:-1 group-title="Chương trình TV" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-22:00 | The Jennifer Hudson Show Season 3, Episode 148 | FOXNY USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium768&auth=ditme
+#EXTINF:-1 group-title="Chương trình TV" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-22:00 | The Price Is Right Season 53, Episode 127 | CBSNY USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium767&auth=ditme
+#EXTINF:-1 group-title="Chương trình TV" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-22:00 | Hell's Kitchen Season 4, Episode 5 | AXS TV USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium742&auth=ditme
+#EXTINF:-1 group-title="Live bóng rỗ" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-22:30 | Super League : Hapoel Haifa vs Hapoel Galil Elyon | Sport 5 Gold Israel
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium148&auth=ditme
+#EXTINF:-1 group-title="Chương trình TV" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-23:00 | The Steve Wilkos Show Season 18, Episode 90 | CW USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium300&auth=ditme
+#EXTINF:-1 group-title="Chương trình TV" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-23:00 | The Steve Wilkos Show Season 18, Episode 90 | CW PIX 11 USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium280&auth=ditme
+#EXTINF:-1 group-title="Live bóng rỗ" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-23:00 | Süper Ligi : Anadolu Efes SK vs. Tofas SK Bursa | beIN SPORTS 5 Turkey
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium12&auth=ditme
+#EXTINF:-1 group-title="Live bóng rỗ" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-23:00 | Süper Ligi : Anadolu Efes SK vs. Tofas SK Bursa | Arena Sport 2 Serbia
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium430&auth=ditme
+#EXTINF:-1 group-title="Live bóng rỗ" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-23:00 | Süper Ligi : Anadolu Efes SK vs. Tofas SK Bursa | Cosmote Sport 9 Greece
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium630&auth=ditme
+#EXTINF:-1 group-title="Live bóng rỗ" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-23:00 | Süper Ligi : Anadolu Efes SK vs. Tofas SK Bursa | Sport 3 Israel
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium142&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-23:00 | Israel - Liga Leumit : Hapoel Petah Tikva vs Hapoel Kfar Saba | Sport 5 Live Israel
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium146&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-23:00 | Israel - Liga Leumit : Hapoel Kfar Shalem vs Maccabi Herzliya | Sport 5 Stars Israel
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium147&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://w7.pngwing.com/pngs/669/448/png-transparent-st-louis-foggia-calcio-super-lig-davis-sport-yedig-uuml-n-text-sport-logo.png", 07/04-23:00 | Serbia - Super Liga : Simulcast | Arena 2 Premium Serbia
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium135&auth=ditme
+#EXTINF:-1 group-title="Ice Hockey" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-23:00 | Slovakia Extraliga : HKM Zvolen vs. HC Kosice | JOJ Sport Slovakia
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium13&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://w7.pngwing.com/pngs/669/448/png-transparent-st-louis-foggia-calcio-super-lig-davis-sport-yedig-uuml-n-text-sport-logo.png", 07/04-23:00 | Serbia - Super Liga : Bačka Topola vs Železničar Pančevo | Arena Sport 3 Serbia
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium431&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://w7.pngwing.com/pngs/669/448/png-transparent-st-louis-foggia-calcio-super-lig-davis-sport-yedig-uuml-n-text-sport-logo.png", 07/04-23:00 | Serbia - Super Liga : Čukarički vs IMT Novi Beograd | Arena Sport 5 Serbia
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium4&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://w7.pngwing.com/pngs/669/448/png-transparent-st-louis-foggia-calcio-super-lig-davis-sport-yedig-uuml-n-text-sport-logo.png", 07/04-23:00 | Serbia - Super Liga : Novi Pazar vs Radnički Niš | Arena Sport 6 Serbia
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium5&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-23:00 | Israel - Liga Leumit : Hapoel Tel Aviv vs Bnei Yehuda | Sport 5 Plus Israel
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium145&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://w7.pngwing.com/pngs/669/448/png-transparent-st-louis-foggia-calcio-super-lig-davis-sport-yedig-uuml-n-text-sport-logo.png", 07/04-23:00 | Serbia - Super Liga : Mladost Lučani vs Vojvodina | Arena Sport 1 Serbia
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium429&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-23:00 | CAF U17 Championship : Angola U17 vs Central African Rep. U17 | beIN Sports MENA 6
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium96&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-23:00 | CAF U17 Championship : Mali U17 vs Côte d'Ivoire U17 | beIN Sports MENA 8
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium98&auth=ditme
+#EXTINF:-1 group-title="Live Golf" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-23:00 | Masters On the Range New Live | CBS Sports Network
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium308&auth=ditme
+#EXTINF:-1 group-title="Live Golf" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-23:00 | Masters On the Range New Live | TSN4
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium114&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-23:00 | Cyprus - First Division : Omonia Aradippou vs Nea Salamis | Cytavision Sports 1 Cyprus
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium911&auth=ditme
+#EXTINF:-1 group-title="Live bóng rỗ" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-23:15 | Bulgaria NBL : Cherno More IG vs. BC Spartak Pleven | Max Sport 2 Bulgaria
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium473&auth=ditme
+#EXTINF:-1 group-title="Live bóng chuyền" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-23:15 | Bulgaria Super League : CSKA Sofia vs. Lokomotiv Plovdiv | Max Sport 3 Bulgaria
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium474&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-23:30 | United Arab Emirates - UAE Pro League : Al Ahli vs Al Ain | Abu Dhabi Sports 1
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium600&auth=ditme
+#EXTINF:-1 group-title="Chương trình TV" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 07/04-23:30 | The Young and the Restless Season 52, Episode 125 | CBSNY USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium767&auth=ditme
+#EXTINF:-1 group-title="Live bóng rỗ" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-00:00 | Liga ABA : KK Cibona vs. KK Crvena zvezda Belgrade | Arena Sport 4 Croatia
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium580&auth=ditme
+#EXTINF:-1 group-title="Live bóng rỗ" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-00:00 | Liga ABA : KK Cibona vs. KK Crvena zvezda Belgrade | Arena Premium 1 Serbia
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium134&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://w7.pngwing.com/pngs/669/448/png-transparent-st-louis-foggia-calcio-super-lig-davis-sport-yedig-uuml-n-text-sport-logo.png", 08/04-00:00 | Denmark - Super Liga : Brøndby vs AGF | Arena Sport 1X2 Serbia
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium14&auth=ditme
+#EXTINF:-1 group-title="Ice Hockey" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-00:00 | Czech Republic 1st Liga : HC Dukla Jihlava vs. PSG Berani Zlin | CT Sport Czech HD
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium3&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://w7.pngwing.com/pngs/669/448/png-transparent-st-louis-foggia-calcio-super-lig-davis-sport-yedig-uuml-n-text-sport-logo.png", 08/04-00:00 | Super Lig : Kasımpaşa vs Beşiktaş | Sport TV6 Portugal
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium291&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://w7.pngwing.com/pngs/669/448/png-transparent-st-louis-foggia-calcio-super-lig-davis-sport-yedig-uuml-n-text-sport-logo.png", 08/04-00:00 | Super Lig : Göztepe vs Gaziantep FK | beIN Sports 2 Turkey
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium63&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://w7.pngwing.com/pngs/669/448/png-transparent-st-louis-foggia-calcio-super-lig-davis-sport-yedig-uuml-n-text-sport-logo.png", 08/04-00:00 | Super Lig : Göztepe vs Gaziantep FK | beIN Sports MAX 5 France
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium495&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://w7.pngwing.com/pngs/669/448/png-transparent-st-louis-foggia-calcio-super-lig-davis-sport-yedig-uuml-n-text-sport-logo.png", 08/04-00:00 | Super Lig : Göztepe vs Gaziantep FK | beIN Sports MENA 5
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium95&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://w7.pngwing.com/pngs/669/448/png-transparent-st-louis-foggia-calcio-super-lig-davis-sport-yedig-uuml-n-text-sport-logo.png", 08/04-00:00 | Super Lig : Kasımpaşa vs Beşiktaş | beIN Sports 1 Turkey
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium62&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://w7.pngwing.com/pngs/669/448/png-transparent-st-louis-foggia-calcio-super-lig-davis-sport-yedig-uuml-n-text-sport-logo.png", 08/04-00:00 | Super Lig : Kasımpaşa vs Beşiktaş | beIN SPORTS USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium425&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://w7.pngwing.com/pngs/669/448/png-transparent-st-louis-foggia-calcio-super-lig-davis-sport-yedig-uuml-n-text-sport-logo.png", 08/04-00:00 | Super Lig : Kasımpaşa vs Beşiktaş | beIN SPORTS en Español
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium372&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://w7.pngwing.com/pngs/669/448/png-transparent-st-louis-foggia-calcio-super-lig-davis-sport-yedig-uuml-n-text-sport-logo.png", 08/04-00:00 | Super Lig : Kasımpaşa vs Beşiktaş | Match! Football 2 Russia
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium137&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://w7.pngwing.com/pngs/669/448/png-transparent-st-louis-foggia-calcio-super-lig-davis-sport-yedig-uuml-n-text-sport-logo.png", 08/04-00:00 | Super Lig : Kasımpaşa vs Beşiktaş | Arena Sport 4 Serbia
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium581&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://w7.pngwing.com/pngs/669/448/png-transparent-st-louis-foggia-calcio-super-lig-davis-sport-yedig-uuml-n-text-sport-logo.png", 08/04-00:00 | Super Lig : Kasımpaşa vs Beşiktaş | beIN Sports MAX 6 France
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium496&auth=ditme
+#EXTINF:-1 group-title="Ice Hockey" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-00:00 | HockeyAllsvenskan : AIK vs BIK Karlskoga | TV4 Hockey
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium700&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-00:00 | Bulgaria - Parva Liga : CSKA 1948 vs Ludogorets | Diema Sport Bulgaria
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium465&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://www.soccerzz.com/img/logos/federacoes/200_isr_imgbank.png", 08/04-00:00 | Israel - Ligat Ha'Al : Hapoel Hadera vs Bnei Sakhnin | Sport 1 Israel
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium140&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-00:00 | Poland - Ekstraklasa : Puszcza Niepołomice vs Raków Częstochowa | Canal+ Sport 3 Poland
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium259&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-00:00 | Poland - Ekstraklasa : Puszcza Niepołomice vs Raków Częstochowa | Canal+ Sport 5 Poland
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium75&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://w7.pngwing.com/pngs/669/448/png-transparent-st-louis-foggia-calcio-super-lig-davis-sport-yedig-uuml-n-text-sport-logo.png", 08/04-00:00 | Denmark - Super Liga : Brøndby vs AGF | TV2 Sport X Denmark
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium808&auth=ditme
+#EXTINF:-1 group-title="Snooker" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-00:00 | Ultimate Pool Champions League | Group Stage | Sky Sport 2 NZ
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium589&auth=ditme
+#EXTINF:-1 group-title="Snooker" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-00:00 | Ultimate Pool Champions League | Group Stage | TNT Sports 1 UK
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium31&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-00:30 | Romania - Liga I : CFR Cluj vs CSU Craiova | Digi Sport 1 Romania
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium400&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-00:30 | Romania - Liga I : CFR Cluj vs CSU Craiova | Prima Sport 1 Romania
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium583&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://www.soccerzz.com/img/logos/federacoes/200_isr_imgbank.png", 08/04-00:30 | Israel - Ligat Ha'Al : Maccabi Haifa vs Hapoel Be'er Sheva | Sport 5 Israel
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium144&auth=ditme
+#EXTINF:-1 group-title="Live bóng rỗ" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-00:35 | Super League : Ironi Kiryat Ata vs Hapoel Holon | Sport 5 Gold Israel
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium148&auth=ditme
+#EXTINF:-1 group-title="Live bóng rỗ" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-00:35 | Super League : Ironi Kiryat Ata vs Hapoel Holon | Sport 5 Live Israel
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium146&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F14.png", 08/04-00:45 | Giải Vô địch Bồ Đào Nha : Farense vs Casa Pia | Ring bg
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium471&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F14.png", 08/04-00:45 | Giải Vô địch Bồ Đào Nha : Farense vs Casa Pia | Sport TV2 Portugal
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium74&auth=ditme
+#EXTINF:-1 group-title="Live bóng rỗ" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-00:55 | Women's Basketball Premier League : Maccabi Ashdod vs Hapoel Yam | Sport 5 Plus Israel
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium145&auth=ditme
+#EXTINF:-1 group-title="Live bóng rỗ" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-00:55 | Women's Basketball Premier League : Hapoel Rishon Lezion vs Elitzur Ramla | Sport 5 Plus Israel
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium145&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-01:00 | Hungary - NB II : Mezőkövesd-Zsóry vs Vasas | M4 Sport Hungary
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium265&auth=ditme
+#EXTINF:-1 group-title="Chương trình TV" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-01:00 | En casa con Telemundo Episode 69 | Telemundo USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium131&auth=ditme
+#EXTINF:-1 group-title="Chương trình TV" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-01:00 | Beyond the Gates Season 1, Episode 29 | CBSNY USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium767&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-01:00 | Netherlands - Eerste Divisie : Utrecht II vs ADO Den Haag | ESPN 1 NL
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium379&auth=ditme
+#EXTINF:-1 group-title="Chương trình TV" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-01:00 | Pictionary Season 3, Episode 126 | FOXNY USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium768&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-01:00 | Albania - Superliga : Tirana vs Partizani Tirana | RTSH Sport Albania
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium2&auth=ditme
+#EXTINF:-1 group-title="Ice Hockey" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-01:00 | SHL : Lulea Hockey vs. Frolunda HC | TV4 Sport Live 1 Sweden
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium703&auth=ditme
+#EXTINF:-1 group-title="Ice Hockey" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-01:00 | SHL : Lulea Hockey vs. Frolunda HC | Sportdigital+ DE
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium640&auth=ditme
+#EXTINF:-1 group-title="Live bóng rỗ" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-01:00 | Italy Serie A : Universo Treviso Basket vs. Virtus Bologna | Sport 3 Israel
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium142&auth=ditme
+#EXTINF:-1 group-title="Live bóng rỗ" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-01:00 | Italy Serie A : Universo Treviso Basket vs. Virtus Bologna | Arena Sport 2 Serbia
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium430&auth=ditme
+#EXTINF:-1 group-title="Live bóng rỗ" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-01:00 | Italy Serie A : Universo Treviso Basket vs. Virtus Bologna | Cosmote Sport 8 Greece
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium629&auth=ditme
+#EXTINF:-1 group-title="Live bóng rỗ" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-01:00 | Italy Serie A : Universo Treviso Basket vs. Virtus Bologna | Polsat Sport 3 Poland
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium129&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-01:00 | Premier League 2 : Reading U21 vs Manchester United U21 | MUTV UK
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium377&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://cdn.footystats.org/img/competitions/italy-serie-c-group-b.png", 08/04-01:30 | Italy - Serie C : Calcio Padova vs Lecco | RAI Sport 1 IT
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium882&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://cdn.footystats.org/img/competitions/italy-serie-c-group-b.png", 08/04-01:30 | Italy - Serie C : AlbinoLeffe vs Pro Vercelli | Sky Sport Arena IT
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium462&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-01:30 | Spain - Segunda Division : Elche vs Racing Ferrol | beIN Sports MAX 7 France
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium497&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://cdn.footystats.org/img/competitions/italy-serie-c-group-b.png", 08/04-01:30 | Italy - Serie C : Calcio Padova vs Lecco | Sky Sport 251 IT
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium6&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-01:30 | Argentina - Primera División : Deportivo Riestra vs Platense | ESPN Premium Argentina
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium387&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://cdn.footystats.org/img/competitions/italy-serie-c-group-b.png", 08/04-01:30 | Italy - Serie C : Giugliano vs Casertana | Sky Sport Max IT
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium460&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-01:30 | Spain - Segunda Division : Elche vs Racing Ferrol | MAX Sport 2 Bulgaria
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium473&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://cdn.footystats.org/img/competitions/italy-serie-c-group-b.png", 08/04-01:30 | Italy - Serie C : Giugliano vs Casertana | Sky Sport 253 IT
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium8&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://cdn.footystats.org/img/competitions/italy-serie-c-group-b.png", 08/04-01:30 | Italy - Serie C : AlbinoLeffe vs Pro Vercelli | Sky Sport 252 IT
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium7&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-01:30 | Spain - Segunda Division : Elche vs Racing Ferrol | LALIGA TV Hypermotion
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium539&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-01:30 | Spain - Segunda Division : Elche vs Racing Ferrol | Nova Sports Start Greece
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium637&auth=ditme
+#EXTINF:-1 group-title="Handball" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-01:30 | Poland Superliga : KPR Legionowo vs. Wybrzeze Gdansk | Polsat Sport 2 Poland
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium47&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-01:30 | Spain - Segunda Division : Elche vs Racing Ferrol | Match! Football 3 Russia
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium138&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-01:30 | Spain - Segunda Division : Elche vs Racing Ferrol | Arena Sport 3 Serbia
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium431&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-01:30 | Spain - Segunda Division : Elche vs Racing Ferrol | Cytavision Sports 7
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium917&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-01:45 | France - Ligue 2 : Dunkerque vs Guingamp | beIN Sports 1 France
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium116&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png", 08/04-01:45 | Italy - Serie A : Bologna vs Napoli | Arena 2 Premium Serbia
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium135&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png", 08/04-01:45 | Italy - Serie A : Bologna vs Napoli | DAZN Zona IT
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium877&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png", 08/04-01:45 | Italy - Serie A : Bologna vs Napoli | DAZN2 DE
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium427&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png", 08/04-01:45 | Italy - Serie A : Bologna vs Napoli | Sport TV4 Portugal
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium289&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png", 08/04-01:45 | Italy - Serie A : Bologna vs Napoli | Abu Dhabi Sports Premium 1
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium609&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png", 08/04-01:45 | Italy - Serie A : Bologna vs Napoli | Eleven Sports 1 Poland
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium71&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png", 08/04-01:45 | Italy - Serie A : Bologna vs Napoli | Match TV Russia
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium127&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png", 08/04-01:45 | Italy - Serie A : Bologna vs Napoli | MATCH! Futbol 1 Russia
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium136&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png", 08/04-01:45 | Italy - Serie A : Bologna vs Napoli | Cytavision Sports 4 Cyprus
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium914&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png", 08/04-01:45 | Italy - Serie A : Bologna vs Napoli | Ziggo Sport 2 NL
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium398&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png", 08/04-01:45 | Italy - Serie A : Bologna vs Napoli | Digi Sport 3 Romania
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium402&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png", 08/04-01:45 | Italy - Serie A : Bologna vs Napoli | Prima Sport 2 Romania
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium584&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png", 08/04-01:45 | Italy - Serie A : Bologna vs Napoli | Arena Sport 2 Croatia
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium433&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png", 08/04-01:45 | Italy - Serie A : Bologna vs Napoli | Cosmote Sport 2 Greece
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium623&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-01:45 | France - Ligue 2 : Dunkerque vs Guingamp | Arena Sport 5 Serbia
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium4&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png", 08/04-01:45 | Italy - Serie A : Bologna vs Napoli | TV2 Sport Denmark
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium810&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png", 08/04-01:45 | Italy - Serie A : Bologna vs Napoli | ESPN4 Brazil
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium85&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png", 08/04-01:45 | Italy - Serie A : Bologna vs Napoli | MAX Sport 3 Bulgaria
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium474&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png", 08/04-01:45 | Italy - Serie A : Bologna vs Napoli | SuperSport Football
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium56&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-01:45 | France - Ligue 2 : Dunkerque vs Guingamp | Sport 5 Stars Israel
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium147&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-01:45 | France - Ligue 2 : Dunkerque vs Guingamp | beIN Sports MENA 4
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium94&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png", 08/04-01:45 | Italy - Serie A : Bologna vs Napoli | TV4 Fotball
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium747&auth=ditme
+#EXTINF:-1 group-title="Snooker" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-02:00 | World Snooker - World Snooker Championship Day 1 | TNT Sports 5 UK
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium16&auth=ditme
+#EXTINF:-1 group-title="Chương trình TV" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-02:00 | The Paul Finebaum Show Live | SEC Network USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium385&auth=ditme
+#EXTINF:-1 group-title="Chương trình TV" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-02:00 | General Hospital Season 62, Episode 145 | ABC NY USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium766&auth=ditme
+#EXTINF:-1 group-title="Chương trình TV" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-02:00 | The Kelly Clarkson Show Season 6, Episode 125 | NBCNY USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium769&auth=ditme
+#EXTINF:-1 group-title="WWE" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-02:00 | WWE Monday Night RAW | SONY TEN 3
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium887&auth=ditme
+#EXTINF:-1 group-title="Winter Sports" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-02:00 | 2025 BKT World Men's Curling Championship: Gold - TBD vs. TBD | TSN2
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium112&auth=ditme
+#EXTINF:-1 group-title="WWE" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-02:00 | WWE Monday Night RAW | Netflix PPV
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium28&auth=ditme
+#EXTINF:-1 group-title="WWE" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-02:00 | WWE Monday Night RAW | SONY TEN 1
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium885&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-02:00 | Spain - La Liga : Leganés vs Osasuna | Viaplay Sports 1 UK
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium451&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://levelpreston.co.uk/wp-content/uploads/2018/04/england-premier-league.png", 08/04-02:00 | Ngoại hạng Anh : Leicester City vs Newcastle United | SuperSport Premier League
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium414&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://levelpreston.co.uk/wp-content/uploads/2018/04/england-premier-league.png", 08/04-02:00 | Ngoại hạng Anh : Leicester City vs Newcastle United | SuperSport MaXimo 1
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium572&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://levelpreston.co.uk/wp-content/uploads/2018/04/england-premier-league.png", 08/04-02:00 | Ngoại hạng Anh : Leicester City vs Newcastle United | Supersport Grandstand
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium412&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://levelpreston.co.uk/wp-content/uploads/2018/04/england-premier-league.png", 08/04-02:00 | Ngoại hạng Anh : Leicester City vs Newcastle United | Diema Sport 2 Bulgaria
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium466&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://levelpreston.co.uk/wp-content/uploads/2018/04/england-premier-league.png", 08/04-02:00 | Ngoại hạng Anh : Leicester City vs Newcastle United | ESPN2 Argentina
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium150&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://levelpreston.co.uk/wp-content/uploads/2018/04/england-premier-league.png", 08/04-02:00 | Ngoại hạng Anh : Leicester City vs Newcastle United | beIN Sports MENA 1
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium91&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://levelpreston.co.uk/wp-content/uploads/2018/04/england-premier-league.png", 08/04-02:00 | Ngoại hạng Anh : Leicester City vs Newcastle United | beIN Sports MENA English 1
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium61&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://levelpreston.co.uk/wp-content/uploads/2018/04/england-premier-league.png", 08/04-02:00 | Ngoại hạng Anh : Leicester City vs Newcastle United | Sport 2 Israel
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium141&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-02:00 | Spain - La Liga : Leganés vs Osasuna | M+ LALIGA TV
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium84&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-02:00 | Spain - La Liga : Leganés vs Osasuna | LaLigaTV UK
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium276&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-02:00 | Spain - La Liga : Leganés vs Osasuna | Premier Sports 1 Ireland
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium771&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://levelpreston.co.uk/wp-content/uploads/2018/04/england-premier-league.png", 08/04-02:00 | Ngoại hạng Anh : Leicester City vs Newcastle United | See Denmark
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium811&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-02:00 | Spain - La Liga : Leganés vs Osasuna | DAZN1 DE
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium426&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-02:00 | Spain - La Liga : Leganés vs Osasuna | DAZN Eleven 2 Portugal
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium456&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-02:00 | Spain - La Liga : Leganés vs Osasuna | Canal+ Sport Poland
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium48&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-02:00 | Spain - La Liga : Leganés vs Osasuna | Match! Football 2 Russia
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium137&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-02:00 | Spain - La Liga : Leganés vs Osasuna | Digi Sport 4 Romania
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium403&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-02:00 | Spain - La Liga : Leganés vs Osasuna | Prima Sport 4 Romania
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium586&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-02:00 | Spain - La Liga : Leganés vs Osasuna | ESPN Deportes
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium375&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-02:00 | Spain - La Liga : Leganés vs Osasuna | Arena 3 Premium Serbia
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium139&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-02:00 | Spain - La Liga : Leganés vs Osasuna | Nova Sports 1 Greece
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium631&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-02:00 | Spain - La Liga : Leganés vs Osasuna | Arena Sport 4 Croatia
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium580&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://levelpreston.co.uk/wp-content/uploads/2018/04/england-premier-league.png", 08/04-02:00 | Ngoại hạng Anh : Leicester City vs Newcastle United | V Sport Premium
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium10&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://levelpreston.co.uk/wp-content/uploads/2018/04/england-premier-league.png", 08/04-02:00 | Ngoại hạng Anh : Leicester City vs Newcastle United | Arena Sport 3 Croatia
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium434&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-02:00 | Spain - La Liga : Leganés vs Osasuna | MAX Sport 4 Bulgaria
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium475&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://levelpreston.co.uk/wp-content/uploads/2018/04/england-premier-league.png", 08/04-02:00 | Ngoại hạng Anh : Leicester City vs Newcastle United | DAZN 1 Spain
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium445&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-02:00 | Uruguay - Primera Division : Wanderers vs Defensor Sporting | VTV+ Uruguay
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium391&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://levelpreston.co.uk/wp-content/uploads/2018/04/england-premier-league.png", 08/04-02:00 | Ngoại hạng Anh : Leicester City vs Newcastle United | Optus sport
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium1&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://levelpreston.co.uk/wp-content/uploads/2018/04/england-premier-league.png", 08/04-02:00 | Ngoại hạng Anh : Leicester City vs Newcastle United | Sky Sports Main Event UK
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium38&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://levelpreston.co.uk/wp-content/uploads/2018/04/england-premier-league.png", 08/04-02:00 | Ngoại hạng Anh : Leicester City vs Newcastle United | Sky Sports Premier League UK
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium130&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://levelpreston.co.uk/wp-content/uploads/2018/04/england-premier-league.png", 08/04-02:00 | Ngoại hạng Anh : Leicester City vs Newcastle United | USA Network
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium343&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://levelpreston.co.uk/wp-content/uploads/2018/04/england-premier-league.png", 08/04-02:00 | Ngoại hạng Anh : Leicester City vs Newcastle United | NBC UNIVERSO USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium845&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://levelpreston.co.uk/wp-content/uploads/2018/04/england-premier-league.png", 08/04-02:00 | Ngoại hạng Anh : Leicester City vs Newcastle United | Sky Sport 8 NZ
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium595&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://levelpreston.co.uk/wp-content/uploads/2018/04/england-premier-league.png", 08/04-02:00 | Ngoại hạng Anh : Leicester City vs Newcastle United | DAZN 1 ES
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium445&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://levelpreston.co.uk/wp-content/uploads/2018/04/england-premier-league.png", 08/04-02:00 | Ngoại hạng Anh : Leicester City vs Newcastle United | Sky Sport Premier League DE
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium9&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://levelpreston.co.uk/wp-content/uploads/2018/04/england-premier-league.png", 08/04-02:00 | Ngoại hạng Anh : Leicester City vs Newcastle United | Sky Sport Top Event DE
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium556&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://levelpreston.co.uk/wp-content/uploads/2018/04/england-premier-league.png", 08/04-02:00 | Ngoại hạng Anh : Leicester City vs Newcastle United | DAZN Eleven 1 Portugal
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium455&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://levelpreston.co.uk/wp-content/uploads/2018/04/england-premier-league.png", 08/04-02:00 | Ngoại hạng Anh : Leicester City vs Newcastle United | Nova Sports Premier League Greece
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium599&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://levelpreston.co.uk/wp-content/uploads/2018/04/england-premier-league.png", 08/04-02:00 | Ngoại hạng Anh : Leicester City vs Newcastle United | Sky Sport Calcio IT
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium870&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://levelpreston.co.uk/wp-content/uploads/2018/04/england-premier-league.png", 08/04-02:00 | Ngoại hạng Anh : Leicester City vs Newcastle United | Canal+ Foot France
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium463&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://levelpreston.co.uk/wp-content/uploads/2018/04/england-premier-league.png", 08/04-02:00 | Ngoại hạng Anh : Leicester City vs Newcastle United | Cytavision Sports 3 Cyprus
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium913&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://levelpreston.co.uk/wp-content/uploads/2018/04/england-premier-league.png", 08/04-02:00 | Ngoại hạng Anh : Leicester City vs Newcastle United | Canal+ Sport 3 Afrique
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium488&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://levelpreston.co.uk/wp-content/uploads/2018/04/england-premier-league.png", 08/04-02:00 | Ngoại hạng Anh : Leicester City vs Newcastle United | beIN Sports 3 Turkey
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium64&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://levelpreston.co.uk/wp-content/uploads/2018/04/england-premier-league.png", 08/04-02:00 | Ngoại hạng Anh : Leicester City vs Newcastle United | Astro Premier League
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium125&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://levelpreston.co.uk/wp-content/uploads/2018/04/england-premier-league.png", 08/04-02:00 | Ngoại hạng Anh : Leicester City vs Newcastle United | Astro Grandstand
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium123&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://levelpreston.co.uk/wp-content/uploads/2018/04/england-premier-league.png", 08/04-02:00 | Ngoại hạng Anh : Leicester City vs Newcastle United | Digi Sport 2 Romania
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium401&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://levelpreston.co.uk/wp-content/uploads/2018/04/england-premier-league.png", 08/04-02:00 | Ngoại hạng Anh : Leicester City vs Newcastle United | Prima Sport 3 Romania
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium583&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://levelpreston.co.uk/wp-content/uploads/2018/04/england-premier-league.png", 08/04-02:00 | Ngoại hạng Anh : Leicester City vs Newcastle United | Arena 1 Premium Serbia
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium134&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-02:00 | Spain - La Liga : Leganés vs Osasuna | TV4 Sport Live 2
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium704&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://levelpreston.co.uk/wp-content/uploads/2018/04/england-premier-league.png", 08/04-02:00 | Ngoại hạng Anh : Leicester City vs Newcastle United | ESPN Brazil
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium81&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-02:00 | Spain - La Liga : Leganés vs Osasuna | SuperSport Laliga
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium415&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-02:00 | Spain - La Liga : Leganés vs Osasuna | beIN Sports MENA 3
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium93&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-02:00 | Spain - La Liga : Leganés vs Osasuna | beIN Sports MENA English 2
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium90&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-02:00 | CAF U17 Championship : Senegal U17 vs Somalia U17 | beIN Sports MENA 8
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium98&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-02:00 | CAF U17 Championship : Gambia U17 vs Tunisia U17 | beIN Sports MENA 6
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium96&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-02:15 | Iceland - Besta deild karla : Stjarnan vs FH | Stöð 2 Sport 5 Iceland
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium11&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F14.png", 08/04-02:15 | Giải Vô địch Bồ Đào Nha : Rio Ave vs Boavista | Sport TV3 Portugal
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium454&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F14.png", 08/04-02:15 | Giải Vô địch Bồ Đào Nha : Rio Ave vs Boavista | Cosmote Sport 3 Greece
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium624&auth=ditme
+#EXTINF:-1 group-title="Live bóng rỗ" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-02:30 | Iceland Basketball Premier League : Álftanes vs UMF Njardvik | Stöð 2 Sport 1 Iceland
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium15&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F14.png", 08/04-02:45 | Giải Vô địch Bồ Đào Nha : Sporting CP vs Sporting Braga | Sport 4 Israel
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium143&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F14.png", 08/04-02:45 | Giải Vô địch Bồ Đào Nha : Sporting CP vs Sporting Braga | Sport Klub 1 Croatia
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium101&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F14.png", 08/04-02:45 | Giải Vô địch Bồ Đào Nha : Sporting CP vs Sporting Braga | ESPN3 Brazil
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium83&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F14.png", 08/04-02:45 | Giải Vô địch Bồ Đào Nha : Sporting CP vs Sporting Braga | Ring bg
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium471&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F14.png", 08/04-02:45 | Giải Vô địch Bồ Đào Nha : Sporting CP vs Sporting Braga | Cosmote Sport 1 Greece
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium622&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F14.png", 08/04-02:45 | Giải Vô địch Bồ Đào Nha : Sporting CP vs Sporting Braga | Cytavision Sports 6 Cyprus
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium916&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F14.png", 08/04-02:45 | Giải Vô địch Bồ Đào Nha : Sporting CP vs Sporting Braga | Arena Sport 1 Serbia
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium429&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F14.png", 08/04-02:45 | Giải Vô địch Bồ Đào Nha : Sporting CP vs Sporting Braga | Sport TV1 Portugal
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium49&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F14.png", 08/04-02:45 | Giải Vô địch Bồ Đào Nha : Sporting CP vs Sporting Braga | GOLTV USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium597&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F14.png", 08/04-02:45 | Giải Vô địch Bồ Đào Nha : Sporting CP vs Sporting Braga | Sportdigital FUSSBALL DE
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium571&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F14.png", 08/04-02:45 | Giải Vô địch Bồ Đào Nha : Sporting CP vs Sporting Braga | Eleven Sports 2 Poland
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium72&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F14.png", 08/04-02:45 | Giải Vô địch Bồ Đào Nha : Sporting CP vs Sporting Braga | Ziggo Sport 3 NL
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium919&auth=ditme
+#EXTINF:-1 group-title="Chương trình TV" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-03:45 | C.B. Strike | HBO Zone USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium694&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-04:00 | Argentina - Primera Nacional : Agropecuario vs Colón | TyC Sports Argentina
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium746&auth=ditme
+#EXTINF:-1 group-title="Bóng chày" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-04:00 | College Softball Illinois vs Northwestern | BTN USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium397&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-05:00 | Brazil - Serie B : Atlético Goianiense vs Athletic Club | ESPN4 Brazil
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium85&auth=ditme
+#EXTINF:-1 group-title="Bóng chày" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-05:40 | MLB : New York Yankees vs Detroit Tigers | MLB Network
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium399&auth=ditme
+#EXTINF:-1 group-title="Bóng chày" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-05:40 | MLB : St. Louis Cardinals vs Pittsburgh Pirates | Bally Sports Oklahoma
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium900&auth=ditme
+#EXTINF:-1 group-title="Bóng chày" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-05:40 | MLB : St. Louis Cardinals vs Pittsburgh Pirates | SportsNet Pittsburgh
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium922&auth=ditme
+#EXTINF:-1 group-title="Bóng chày" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-05:40 | MLB : New York Yankees vs Detroit Tigers | MLB League Pass
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium17&auth=ditme
+#EXTINF:-1 group-title="Bóng chày" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-05:40 | MLB : St. Louis Cardinals vs Pittsburgh Pirates | MLB League Pass
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium18&auth=ditme
+#EXTINF:-1 group-title="Bóng chày" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-05:40 | MLB : New York Yankees vs Detroit Tigers | FanDuel Sports Network Detroit
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium891&auth=ditme
+#EXTINF:-1 group-title="Bóng chày" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-05:40 | MLB : New York Yankees vs Detroit Tigers | YES USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium763&auth=ditme
+#EXTINF:-1 group-title="Bóng chày" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-05:45 | MLB : Los Angeles Dodgers vs Washington Nationals | MLB Network
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium399&auth=ditme
+#EXTINF:-1 group-title="Bóng chày" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-05:45 | MLB : Toronto Blue Jays vs Boston Red Sox | MLB League Pass
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium20&auth=ditme
+#EXTINF:-1 group-title="Bóng chày" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-05:45 | MLB : Los Angeles Dodgers vs Washington Nationals | Spectrum SportsNet LA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium764&auth=ditme
+#EXTINF:-1 group-title="Bóng chày" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-05:45 | MLB : Toronto Blue Jays vs Boston Red Sox | NESN USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium762&auth=ditme
+#EXTINF:-1 group-title="Bóng chày" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-05:45 | MLB : Los Angeles Dodgers vs Washington Nationals | Sport 5 Live Israel
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium146&auth=ditme
+#EXTINF:-1 group-title="Bóng chày" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-05:45 | MLB : Los Angeles Dodgers vs Washington Nationals | MASN USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium829&auth=ditme
+#EXTINF:-1 group-title="Bóng chày" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-05:45 | MLB : Los Angeles Dodgers vs Washington Nationals | beIN Sports 4 Max France
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium494&auth=ditme
+#EXTINF:-1 group-title="Bóng chày" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-05:45 | MLB : Los Angeles Dodgers vs Washington Nationals | Vodafone Sport
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium260&auth=ditme
+#EXTINF:-1 group-title="Bóng chày" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-05:45 | MLB : Toronto Blue Jays vs Boston Red Sox | Sportsnet 360
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium409&auth=ditme
+#EXTINF:-1 group-title="Bóng chày" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-05:45 | MLB : Toronto Blue Jays vs Boston Red Sox | Sportsnet East
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium408&auth=ditme
+#EXTINF:-1 group-title="Bóng chày" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-05:45 | MLB : Los Angeles Dodgers vs Washington Nationals | MLB League Pass
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium19&auth=ditme
+#EXTINF:-1 group-title="Bóng chày" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-05:45 | MLB : Toronto Blue Jays vs Boston Red Sox | Sportsnet Ontario
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium406&auth=ditme
+#EXTINF:-1 group-title="Ice Hockey" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-06:00 | NHL : Tampa Bay Lightning vs New York Rangers | Away Feed
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium3&auth=ditme
+#EXTINF:-1 group-title="Chương trình TV" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-06:00 | Live From the Masters Episode 2 | Golf Channel USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium318&auth=ditme
+#EXTINF:-1 group-title="Chương trình TV" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-06:00 | College GameDay | ESPN USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium44&auth=ditme
+#EXTINF:-1 group-title="Chương trình TV" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-06:00 | Jeopardy! Season 41, Episode 151 | ABC NY USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium766&auth=ditme
+#EXTINF:-1 group-title="Live bóng rỗ" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-06:00 | NBA : Sacramento Kings vs Detroit Pistons | Cosmote Sport 4 Greece
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium625&auth=ditme
+#EXTINF:-1 group-title="Ice Hockey" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-06:00 | NHL : Tampa Bay Lightning vs New York Rangers | Bally Sports Sun
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium905&auth=ditme
+#EXTINF:-1 group-title="Ice Hockey" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-06:00 | NHL : Tampa Bay Lightning vs New York Rangers | Sport 5 Stars Israel
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium147&auth=ditme
+#EXTINF:-1 group-title="Ice Hockey" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-06:00 | NHL : Tampa Bay Lightning vs New York Rangers | V Sport Vinter
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium1&auth=ditme
+#EXTINF:-1 group-title="Ice Hockey" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-06:00 | NHL : Tampa Bay Lightning vs New York Rangers | beIN Sports 7 Max France
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium497&auth=ditme
+#EXTINF:-1 group-title="Ice Hockey" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-06:00 | NHL : Tampa Bay Lightning vs New York Rangers | TV3 Sport Denmark
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium809&auth=ditme
+#EXTINF:-1 group-title="Ice Hockey" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-06:00 | NHL : Tampa Bay Lightning vs New York Rangers | Viaplay Sports 2 UK
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium550&auth=ditme
+#EXTINF:-1 group-title="Ice Hockey" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-06:00 | NHL : Tampa Bay Lightning vs New York Rangers | MSG USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium765&auth=ditme
+#EXTINF:-1 group-title="Ice Hockey" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-06:00 | NHL : Tampa Bay Lightning vs New York Rangers | Home Feed
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium2&auth=ditme
+#EXTINF:-1 group-title="Live bóng rỗ" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-06:00 | NBA : Sacramento Kings vs Detroit Pistons | Arena Premium 2 Serbia
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium135&auth=ditme
+#EXTINF:-1 group-title="Live bóng rỗ" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-06:00 | NBA : Sacramento Kings vs Detroit Pistons | Movistar Deportes 2 Spain
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium438&auth=ditme
+#EXTINF:-1 group-title="Live bóng rỗ" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-06:00 | NBA : Sacramento Kings vs Detroit Pistons | NBCS California USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium755&auth=ditme
+#EXTINF:-1 group-title="Live bóng rỗ" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-06:00 | NBA : Sacramento Kings vs Detroit Pistons | NBA TV USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium404&auth=ditme
+#EXTINF:-1 group-title="Live bóng rỗ" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-06:00 | NBA : Sacramento Kings vs Detroit Pistons | Away Feed
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium14&auth=ditme
+#EXTINF:-1 group-title="Live bóng rỗ" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-06:00 | NBA : Sacramento Kings vs Detroit Pistons | Home Feed
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium13&auth=ditme
+#EXTINF:-1 group-title="Daddylive event" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-06:00 | Campeonato Brasileiro De Futebol Sub-20 : São Paulo vs Corinthians | Sportv Brazil
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium78&auth=ditme
+#EXTINF:-1 group-title="Bóng chày" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-06:10 | MLB : Miami Marlins vs New York Mets | SportsNet New York USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium759&auth=ditme
+#EXTINF:-1 group-title="Bóng chày" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-06:10 | MLB : Miami Marlins vs New York Mets | RDS CA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium839&auth=ditme
+#EXTINF:-1 group-title="Bóng chày" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-06:10 | MLB : Miami Marlins vs New York Mets | FanDuel Sports Network Florida
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium892&auth=ditme
+#EXTINF:-1 group-title="Bóng chày" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-06:10 | MLB : Miami Marlins vs New York Mets | MLB League Pass
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium21&auth=ditme
+#EXTINF:-1 group-title="Live bóng rỗ" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-06:30 | NBA : Philadelphia 76ers vs Miami Heat | Away Feed
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium16&auth=ditme
+#EXTINF:-1 group-title="Chương trình TV" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-06:30 | Cheez-It Citrus Bowl Illinois Football Classic 2024 | BTN USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium397&auth=ditme
+#EXTINF:-1 group-title="Live bóng rỗ" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-06:30 | NBA : Philadelphia 76ers vs Miami Heat | Home Feed
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium15&auth=ditme
+#EXTINF:-1 group-title="Ice Hockey" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-06:30 | NHL : St. Louis Blues vs Winnipeg Jets | Max Sport 2 Bulgaria
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium473&auth=ditme
+#EXTINF:-1 group-title="Ice Hockey" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-06:30 | NHL : St. Louis Blues vs Winnipeg Jets | FanDuel Sports Network Indiana
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium894&auth=ditme
+#EXTINF:-1 group-title="Ice Hockey" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-06:30 | NHL : St. Louis Blues vs Winnipeg Jets | FanDuel Sports Network Midwest
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium896&auth=ditme
+#EXTINF:-1 group-title="Live bóng rỗ" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-06:30 | NBA : Philadelphia 76ers vs Miami Heat | beIN SPORTS English 1
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium61&auth=ditme
+#EXTINF:-1 group-title="Live bóng rỗ" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-06:30 | NBA : Philadelphia 76ers vs Miami Heat | beIN SPORTS 1
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium91&auth=ditme
+#EXTINF:-1 group-title="Live bóng rỗ" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-06:30 | NBA : Philadelphia 76ers vs Miami Heat | TV2 Sport X Denmark
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium808&auth=ditme
+#EXTINF:-1 group-title="Live bóng rỗ" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-06:30 | NBA : Philadelphia 76ers vs Miami Heat | ESPN 2 NL
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium386&auth=ditme
+#EXTINF:-1 group-title="Live bóng rỗ" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-06:30 | NBA : Philadelphia 76ers vs Miami Heat | TV4 Sportkanalen
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium707&auth=ditme
+#EXTINF:-1 group-title="Live bóng rỗ" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-06:30 | NBA : Philadelphia 76ers vs Miami Heat | beIN Sports 1 France
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium116&auth=ditme
+#EXTINF:-1 group-title="Live bóng rỗ" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-06:30 | NBA : Philadelphia 76ers vs Miami Heat | Sportsnet One
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium411&auth=ditme
+#EXTINF:-1 group-title="Live bóng rỗ" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-06:30 | NBA : Philadelphia 76ers vs Miami Heat | NBCS Philadelphia USA
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium777&auth=ditme
+#EXTINF:-1 group-title="Live bóng rỗ" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-06:30 | NBA : Philadelphia 76ers vs Miami Heat | Bally Sports Sun
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium905&auth=ditme
+#EXTINF:-1 group-title="Ice Hockey" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-06:30 | NHL : St. Louis Blues vs Winnipeg Jets | Home Feed
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium4&auth=ditme
+#EXTINF:-1 group-title="Ice Hockey" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-06:30 | NHL : St. Louis Blues vs Winnipeg Jets | Away Feed
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium5&auth=ditme
+#EXTINF:-1 group-title="Ice Hockey" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-06:30 | NHL : St. Louis Blues vs Winnipeg Jets | Viaplay Sports 1 UK
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium451&auth=ditme
+#EXTINF:-1 group-title="Ice Hockey" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-06:30 | NHL : St. Louis Blues vs Winnipeg Jets | Sport TV4 Portugal
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium289&auth=ditme
+#EXTINF:-1 group-title="Ice Hockey" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-06:30 | NHL : St. Louis Blues vs Winnipeg Jets | V Sport Premium Sweden
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium10&auth=ditme
+#EXTINF:-1 group-title="Bóng chày" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-06:40 | MLB : Texas Rangers vs Chicago Cubs | TNT Sports 1 UK
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium31&auth=ditme
+#EXTINF:-1 group-title="Bóng chày" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-06:40 | MLB : Minnesota Twins vs Kansas City Royals | MLB League Pass
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium22&auth=ditme
+#EXTINF:-1 group-title="Bóng chày" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-06:40 | MLB : Minnesota Twins vs Kansas City Royals | FanDuel Sports Network Kansas City
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium895&auth=ditme
+#EXTINF:-1 group-title="Bóng chày" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-06:40 | MLB : Texas Rangers vs Chicago Cubs | MLB League Pass
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium23&auth=ditme
+#EXTINF:-1 group-title="Bóng chày" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", 08/04-06:40 | MLB : Texas Rangers vs Chicago Cubs | Marquee Sports Network
+http://bentre5.hoangai.vn:8082/dd/kenh.php?id=premium770&auth=ditme
+#EXTINF:-1 group-title="Live trượt tuyết" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", Chưa có sự kiện
+http://cdn.hoangai.vn
+#EXTINF:-1 group-title="Live Boxing" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", Chưa có sự kiện
+http://cdn.hoangai.vn
+#EXTINF:-1 group-title="Live Motorsport" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", Chưa có sự kiện
+http://cdn.hoangai.vn
+#EXTINF:-1 group-title="Live Futsal" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", Chưa có sự kiện
+http://cdn.hoangai.vn
+#EXTINF:-1 group-title="Live trượt tuyết" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", Chưa có sự kiện
+http://cdn.hoangai.vn
+#EXTINF:-1 group-title="PPV Events" tvg-logo="https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-live-tv-play-video-media-online-streaming-app-logo-vector-png-image_12952425.png", Chưa có sự kiện
+http://cdn.hoangai.vn
